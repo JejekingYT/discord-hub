@@ -1,0 +1,60 @@
+/* Page fade animation */
+.page-outer {
+  animation: fadein 0.6s ease;
+}
+
+@keyframes fadein {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Neon gradient banner for H1 */
+.page h1:first-of-type {
+  padding: 2rem;
+  margin: -1rem -1rem 2rem -1rem;
+  border-radius: 0 0 14px 14px;
+  background: linear-gradient(135deg, #9A4DFF 0%, #FF4FD8 100%);
+  color: white !important;
+  text-shadow: 0 1px 3px rgba(0,0,0,0.4);
+}
+
+/* Logo glow */
+.header-logo img {
+  filter: drop-shadow(0 0 6px rgba(255, 79, 216, 0.45));
+}
+
+/* Card glow */
+.card, .note {
+  border-radius: 12px;
+  box-shadow: 0 0 14px rgba(154, 77, 255, 0.25);
+}
+
+/* Buttons */
+button, a.button {
+  border-radius: 10px !important;
+}
+
+a.button-primary {
+  box-shadow: 0 0 12px rgba(255, 79, 216, 0.4);
+}
+
+/* Table refinement */
+table {
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+/* 404 page center */
+.page[data-route="404"] .page-content {
+  text-align: center;
+  padding-top: 2rem;
+}
+/* Banner icon inside h1 header */
+.page h1:first-of-type::before {
+  content: attr(data-icon);
+  font-family: "Lucide Icons", sans-serif;
+  font-size: 2.2rem;
+  display: inline-block;
+  margin-right: 12px;
+  vertical-align: middle;
+}

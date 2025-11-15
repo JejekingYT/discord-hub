@@ -1,0 +1,126 @@
+{
+  "version": "3.11.0",
+  "created": "2025-11-15T12:05:35Z",
+  "files": [
+    {
+      "path": ".nojekyll"
+    },
+    {
+      "path": "404.html"
+    },
+    {
+      "path": "about\\index.html"
+    },
+    {
+      "path": "achievements\\index.html"
+    },
+    {
+      "path": "assets\\logo.svg"
+    },
+    {
+      "path": "challenges\\index.html"
+    },
+    {
+      "path": "CNAME"
+    },
+    {
+      "path": "contact\\index.html"
+    },
+    {
+      "path": "discord\\index.html"
+    },
+    {
+      "path": "events\\index.html"
+    },
+    {
+      "path": "faq\\index.html"
+    },
+    {
+      "path": "gallery\\index.html"
+    },
+    {
+      "path": "hall-of-fame\\index.html"
+    },
+    {
+      "path": "index.html"
+    },
+    {
+      "path": "leaderboards\\index.html"
+    },
+    {
+      "path": "other-servers\\index.html"
+    },
+    {
+      "path": "other-sites\\index.html"
+    },
+    {
+      "path": "package-lock.json"
+    },
+    {
+      "path": "package.json"
+    },
+    {
+      "path": "projects\\index.html"
+    },
+    {
+      "path": "resources\\css\\retype.css"
+    },
+    {
+      "path": "resources\\fonts\\Inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources\\fonts\\Inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "resources\\js\\config.js"
+    },
+    {
+      "path": "resources\\js\\lunr.js"
+    },
+    {
+      "path": "resources\\js\\retype.js"
+    },
+    {
+      "path": "resources\\js\\search.json"
+    },
+    {
+      "path": "resources\\lunr.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\mermaid.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\prism.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.LICENSE.txt"
+    },
+    {
+      "path": "roadmap\\index.html"
+    },
+    {
+      "path": "robots.txt"
+    },
+    {
+      "path": "rules\\index.html"
+    },
+    {
+      "path": "server-guides\\index.html"
+    },
+    {
+      "path": "sitemap.xml.gz"
+    },
+    {
+      "path": "staff\\index.html"
+    },
+    {
+      "path": "styles\\custom.css"
+    },
+    {
+      "path": "updates\\index.html"
+    }
+  ]
+}

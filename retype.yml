@@ -1,0 +1,44 @@
+input: .
+output: .retype
+
+url: https://example.com
+
+branding:
+  title: My Community Hub
+  logo: assets/logo.svg
+
+links:
+  - text: Discord
+    link: discord
+    icon: message-circle
+  - text: Projects
+    link: projects
+    icon: code
+  - text: Rules
+    link: rules
+    icon: shield
+  - text: FAQ
+    link: faq
+    icon: help-circle
+  - text: Staff
+    link: staff
+    icon: users
+  - text: Updates
+    link: updates
+    icon: history
+
+footer:
+  copyright: "© {{ year }} My Community."
+
+theme:
+  accentPrimary: "#9A4DFF"
+  logo: assets/logo.svg
+  hidePoweredBy: false
+
+page404: 404.md
+
+imports:
+  - styles/custom.css
+
+editor:
+  enabled: false
