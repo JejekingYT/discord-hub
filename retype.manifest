@@ -1,6 +1,6 @@
 {
   "version": "3.11.0",
-  "created": "2025-11-15T12:05:35Z",
+  "created": "2025-11-16T18:14:42Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -45,7 +45,8 @@
       "path": "index.html"
     },
     {
-      "path": "leaderboards\\index.html"
+      "path": "leaderboards\\index.html",
+      "old": true
     },
     {
       "path": "other-servers\\index.html"
@@ -66,7 +67,13 @@
       "path": "resources\\css\\retype.css"
     },
     {
+      "path": "resources\\fonts\\inter-italic-latin-var.woff2"
+    },
+    {
       "path": "resources\\fonts\\Inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources\\fonts\\inter-roman-latin-var.woff2"
     },
     {
       "path": "resources\\fonts\\Inter-roman-latin-var.woff2"
@@ -84,16 +91,31 @@
       "path": "resources\\js\\search.json"
     },
     {
+      "path": "resources\\lunr.js.license.txt"
+    },
+    {
       "path": "resources\\lunr.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\mermaid.js.license.txt"
     },
     {
       "path": "resources\\mermaid.js.LICENSE.txt"
     },
     {
+      "path": "resources\\prism.js.license.txt"
+    },
+    {
       "path": "resources\\prism.js.LICENSE.txt"
     },
     {
+      "path": "resources\\retype.js.license.txt"
+    },
+    {
       "path": "resources\\retype.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.license.txt"
     },
     {
       "path": "resources\\retype.LICENSE.txt"

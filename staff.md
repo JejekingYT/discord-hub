@@ -8,8 +8,8 @@ Meet the people who help keep the server safe and running smoothly.
 
 | Name | Role | Bio |
 |------|------|-----|
-| **Admin 1** | Server Owner | Creator of the server and main developer. |
-| **Admin 2** | Co-Admin | Helps manage server operations. |
+| **Snuje** | Server Owner | Creator of the server and main developer. |
+| **Verx** | Co-Admin | Helps manage server operations. |
 
 ---
 
