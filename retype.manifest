@@ -1,6 +1,6 @@
 {
   "version": "3.11.0",
-  "created": "2025-11-16T18:14:42Z",
+  "created": "2025-11-16T18:22:43Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -45,8 +45,7 @@
       "path": "index.html"
     },
     {
-      "path": "leaderboards\\index.html",
-      "old": true
+      "path": "leaderboards\\index.html"
     },
     {
       "path": "other-servers\\index.html"
